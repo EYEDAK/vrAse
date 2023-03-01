@@ -8,12 +8,17 @@ vrAse is a pair of special glasses, that allow you to use the smartphone as the 
 
 ### What smartphone I need to use vrAse
 
-You can use any smartphone, but the more powerful, the better
+You can use any smartphone, but the more powerful, the better.
 
 ### How can I get hold of vrAse
 You can either:
-- 3D print them downloading the 3D files here*
-- Buy a fully assembled pair from the official store https://eyedak.com/vrase/
+- 3D printing them, downloading the 3D files for the frame here at GitHub, and buying just the lenses and straps at EYEDAK official online store. 
+- Buy a fully assembled pair at EYEDAK official online store.
+
+### Official EYEDAK online store
+
+https://eyedak.com/vrase/
+
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
