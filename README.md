@@ -1,8 +1,14 @@
 # vrAse
 
-The smartphone vr pioneer
+The smartphone vr pioneer since 2013
+
+
 
 Use your smartphone as the source for portable VR & AR 
+
+
+
+
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
