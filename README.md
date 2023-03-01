@@ -1,6 +1,6 @@
 # vrAse
 
-**The smartphone vr pioneer since 2013**
+**The original smartphone vr glasses**
 
 
 
