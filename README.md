@@ -2,11 +2,10 @@
 
 **The original smartphone vr glasses**
 
-## What is vrAse
+### What is vrAse
 
 vrAse is a pair of special glasses, that allow you to use the smartphone as the source for VR & AR content.
 
-Use your smartphone as the source for portable VR & AR 
 
 
 
