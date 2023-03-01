@@ -1,5 +1,12 @@
 # vrAse A2
 
+This model is the first hybrid VR glasses in the world; half digital, half physical.
+
+Grab the 3D models and start experimenting.
+
+We´ll keep adding info, guides, etc. 
+
+
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
