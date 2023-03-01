@@ -12,8 +12,8 @@ You can use any smartphone, but the more powerful, the better
 
 ### How can I get hold of vrAse
 You can either:
-- 3D print you own vrAse downloading the 3D files here
-- Buy an assembled pair from the official store https://eyedak.com/vrase/
+- 3D print them downloading the 3D files here*
+- Buy a fully assembled pair from the official store https://eyedak.com/vrase/
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
