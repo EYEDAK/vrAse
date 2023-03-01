@@ -6,8 +6,14 @@
 
 vrAse is a pair of special glasses, that allow you to use the smartphone as the source for VR & AR content.
 
+### What smartphone I need to use vrAse
 
+You can use any smartphone, but the more powerful, the better
 
+### How can I get hold of vrAse
+You can either:
+- 3D print you own vrAse downloading the 3D files here
+- Buy an assembled pair from the official store https://eyedak.com/vrase/
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
