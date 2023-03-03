@@ -6,6 +6,14 @@ Grab the 3D models and start experimenting.
 
 We´ll keep adding info, guides, etc. 
 
+Instructions on how you can get hold of vrAse
+You can either:
+
+3D printing them by 1) downloading the 3D files for the frame here at GitHub, 2) buying just the lenses and straps at EYEDAK online store and 3) assemble them.
+Buy a fully assembled pair at EYEDAK official online store.
+EYEDAK online store
+https://eyedak.com/vrase/
+
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
