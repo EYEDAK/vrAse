@@ -12,7 +12,7 @@ You can use any smartphone, but the more powerful, the better.
 
 ### How can I get hold of vrAse
 You can either:
-- 3D printing them by 1) downloading the 3D files for the frame here at GitHub, 2) buying just the lenses and straps at EYEDAK online store and 3) assemble them. 
+- 3D print them by 1) downloading the 3D files for the frame here at GitHub, 2) buying just the lenses and straps at EYEDAK online store and 3) assemble them. 
 - Buy a fully assembled pair at EYEDAK official online store.
 
 ### EYEDAK online store
