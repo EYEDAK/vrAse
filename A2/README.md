@@ -11,7 +11,8 @@ You can either:
 
 · 3D printing them by 
 1) downloading the 3D files for the frame here at GitHub, 
-2) 2) buying just the lenses and straps at EYEDAK online store and 3) assemble them.
+2) buying just the lenses and straps at EYEDAK online store and 
+3) assemble them.
 
 · Buy a fully assembled pair at EYEDAK official online store.
 
