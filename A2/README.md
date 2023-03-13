@@ -16,6 +16,9 @@ You can either:
 
 · Buy a fully assembled pair at EYEDAK official online store.
 
+### Autodesk© Fusion360© 3D Model
+https://a360.co/3kJnYD6
+
 ### EYEDAK online store
 https://eyedak.com/vrase/
 
