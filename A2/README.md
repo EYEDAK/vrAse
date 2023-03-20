@@ -19,8 +19,8 @@ You can either:
 ### Autodesk© Fusion360© 3D Model
 https://a360.co/3kJnYD6
 
-### YouTube Assembly steps (Español)
-https://www.youtube.com/playlist?list=PLgfXlVowMy6z19C8eXksRQOxdy9DskxfH
+### YouTube Assembly steps
+Español: https://www.youtube.com/playlist?list=PLgfXlVowMy6z19C8eXksRQOxdy9DskxfH
 
 ### EYEDAK online store
 https://eyedak.com/vrase/
